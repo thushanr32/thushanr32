@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Thushan! 👋
 
 <!--
 **thushanr32/thushanr32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hey, I'm Thushan!
 
 I am a 3rd year computer science student and statistics student at the University of Maryland.
 
