@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hey, I'm Thushan!
+
+I am a 3rd year computer science student and statistics student at the University of Maryland.
+
+I'm broadly interested in software engineering, machine learning, and stat/math.
+
+Previously, I've worked at Collins Aerospace as a Software Engineer Intern, at the UMD CS Department as a Student Research Assistant, at Radian as a Dev Ops Intern, and at the National Cancer Institute as a Software Engineer Intern.
+
+⚡ Fun fact: I enjoy cooking various cuisines including Mexican, Greek, Italian, Sri Lankan, and more. I also enjoy hitting the gym and I'm learning how to shoot/edit videos and take aesthetic photos.
+
+Please reach out on email: tranasi5 [at] terpmail [dot] umd [dot] com
 
