@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a 3rd year computer science student and statistics student at the University of Maryland.
+I am a 3rd year computer science and statistics student at the University of Maryland.
 
 I'm broadly interested in software engineering, machine learning, and stat/math.
 
