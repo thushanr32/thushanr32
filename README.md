@@ -23,5 +23,5 @@ Previously, I've worked at Collins Aerospace as a Software Engineer Intern, at t
 
 ⚡ Fun fact: I enjoy cooking various cuisines including Mexican, Greek, Italian, Sri Lankan, and more. I also enjoy hitting the gym and I'm learning how to shoot/edit videos and take aesthetic photos.
 
-Please reach out on email: tranasi5 [at] terpmail [dot] umd [dot] com
+Please reach out on email: tranasi5 [at] terpmail [dot] umd [dot] edu
 
